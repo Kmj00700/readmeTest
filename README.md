@@ -1,8 +1,5 @@
-안녕하세요:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDA180&height=300&text=Welcome&fontAlignY=40&fontSize=70&fontColor=FFFFFF&desc=neck950728's%20GitHub&descAlign=60&descAlignY=55&animation=fadeIn">
 
-   반갑습니다.
-   
-방가방가
 
 <br>
 
