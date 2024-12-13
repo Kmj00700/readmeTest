@@ -1,4 +1,5 @@
 <img src="https://img.shields.io/badge/Spring Boot-black?style=for-the-badge&logo=springboot&logoColor=black">
+<img src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=black">
 
 
 
